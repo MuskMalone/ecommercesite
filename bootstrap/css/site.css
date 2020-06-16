@@ -1,0 +1,22 @@
+body {
+    font-family : Arial;
+    font-size : 14px;
+}
+
+.page-title {
+    font-size:24px; 
+	font-weight:bold;
+}
+
+.cart-header {
+	/*background-color: #0040FF;*/
+	background-color: #7f9c90;
+	color: white;
+}
+
+.bg-custom {
+	background: teal;
+}
+
+
+
